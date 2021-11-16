@@ -1,3 +1,30 @@
+- Antd
+- Axios
+- Bcrypt
+- Bootstrap
+- CORS
+- Express
+- Express-session
+- Nodemailer
+- Passport
+- Passport-local
+- Pg
+- Pg-hstore
+- React-redux
+- React-router
+- React-router-dom
+- Redux
+- Redux-logger
+- Sequelize
+- Validator
+- Concurrently
+- MUI
+- Emotion/react
+- Emotion/styled
+- Reduxjs/toolkit
+- GSAP (Animaciones)
+- React-bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
